@@ -1,9 +1,7 @@
 streamlit
-folium
 pandas
-numpy
-geopandas
-matplotlib
-pydeck
-requests
-pillow
+pyarrow.parquet
+folium
+streamlit_folium
+folium.features
+os
