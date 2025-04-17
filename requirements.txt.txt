@@ -1,7 +1,0 @@
-streamlit
-folium
-pandas
-numpy
-geopandas
-matplotlib
-pydeck
